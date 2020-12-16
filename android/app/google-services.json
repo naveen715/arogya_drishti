@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "13460097856",
+    "project_id": "arogya-drishti",
+    "storage_bucket": "arogya-drishti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13460097856:android:d04c606abc7f2b78e788a5",
+        "android_client_info": {
+          "package_name": "com.arogyadrishti.arogyadrishti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13460097856-5o3o8mdm3c0ee5j5r60eupp02qjosgn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arogyadrishti.arogyadrishti",
+            "certificate_hash": "edccf420820575b54828d3710c29ff95fc059e95"
+          }
+        },
+        {
+          "client_id": "13460097856-qmacd1frhoftida40pb93olepmeh9l7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arogyadrishti.arogyadrishti",
+            "certificate_hash": "765e9a7e0368ff34f6a9c06a3652bab151584027"
+          }
+        },
+        {
+          "client_id": "13460097856-gs7ns178pr55e194dc2oopnsit0a0neg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXSRtP-88KP7cPwuLq_34R5NBCVPR6FDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13460097856-gs7ns178pr55e194dc2oopnsit0a0neg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
